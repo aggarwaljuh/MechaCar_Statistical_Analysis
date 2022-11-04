@@ -36,8 +36,9 @@ Overall we find that the lot 3's mean is  significanly different than the popula
 
 ## Study Design: MechaCar vs Competition
 
+A way to test how the MechaCar performs against the competition is to do stastical tests between the all of the cars in the competition. In this test we would do anova tests to determine if there are stastical differences between suspension coils. You can also do anova tests to determine stastical differences between the general vichical length,and ground clearance as both of these effect mph. (Anova assuming there is more than 1 car in the competion, if there is only one we will do a t-test).
 
-* What metric or metrics are you going to test?
-* What is the null hypothesis or alternative hypothesis?
-* What statistical test would you use to test the hypothesis? And why?
-* What data is needed to run the statistical test?
+Our null hypothesis would be that there is no difference between the MechaCar and the competion.
+Our two possible alternative hypothses are that the MechaCar is better than the competion or the the MechaCar is worse than the competion.
+
+
