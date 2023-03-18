@@ -17,13 +17,13 @@ This linear mondel does predict the mpg of the protoypes well as the adjusted R-
 ## Summary Statistics on Suspension Coils
 ![p1](/Resources/summary.png)
 
-In the total summary the mean is 1498.78 with a variance of 62.29 pounds per square inch which is in the 100 pount variance limitation. So overall this does meet the specifications.
+In the total summary the mean is 1498.78 with a variance of 62.29 pounds per square inch which is in the 100 pount variance limitation. So overall this does meet the specifications. 
 Lots 1 and 2 also fall within this variance at 0.98 and 7.47 respectivly but Lot 3 had a variance well over 100 at 170. This does not meet the specifications. 
 
 
 ## T-Tests on Suspension Coils
 ![p1](/Resources/Overall.png)
-Overall we find that the total group's mean is not significanly different than the population mean of 1500 with a p value of 0.06, there for accepting the null hypothesis. 
+Overall we find that the total group's mean is not significanly different than the population mean of 1500 with a p value of 0.06, there for accepting the null hypothesis. We are chosing 0.05 as the alphs.
 
 ![p1](/Resources/lot1.png)
 Overall we find that the lot 1's mean is not significanly different than the population mean of 1500 with a p value of 1.00 and the 95% confidiance interval including the population mean, there for accepting the null hypothesis. 
@@ -40,5 +40,7 @@ A way to test how the MechaCar performs against the competition is to do stastic
 
 Our null hypothesis would be that there is no difference between the MechaCar and the competion.
 Our two possible alternative hypothses are that the MechaCar is better than the competion or the the MechaCar is worse than the competion.
+
+
 
 
